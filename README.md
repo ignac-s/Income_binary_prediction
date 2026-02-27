@@ -19,7 +19,7 @@ W ramach eksperymentu przetestowano i porównano kilka algorytmów klasyfikacyjn
 2.  **Random Forest:** Zajął drugie miejsce. Charakteryzował się wysokim współczynnikiem *Recall* (dobrze wykrywał osoby zamożne), ale generował więcej fałszywych alarmów (False Positives) w porównaniu do Gradient Boostingu.
 3.  **Ogólna wydajność:** Wszystkie testowane modele uzyskały zbliżone i wysokie wartości AUC, co potwierdza poprawność przeprowadzonego procesu inżynierii cech.
 
-## 🚀 Jak uruchomić
+## Jak uruchomić
 1.  Sklonuj repozytorium:
     ```bash
     git clone [https://github.com/twoj-nick/adult-income-prediction.git](https://github.com/twoj-nick/adult-income-prediction.git)
